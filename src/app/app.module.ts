@@ -1,4 +1,4 @@
-import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
+import { HttpClientModule } from '@angular/common/http';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
@@ -16,7 +16,6 @@ import { ShoppingListModule } from './shopping-list/shopping-list.module';
     BrowserModule,
     HttpClientModule,
     AppRoutingModule,
-    RecipesModule,
     ShoppingListModule,
     AuthModule,
     SharedModule,
