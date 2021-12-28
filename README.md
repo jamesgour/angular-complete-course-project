@@ -1,27 +1,26 @@
-# AngularCompleteCourseProject
+# Angular Complete Course Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
+This project was the result of taking the 34 hour Udemy course: [The Complete Guide to Angular 2](https://www.udemy.com/course/the-complete-guide-to-angular-2/).
 
-## Development server
+The project is currently live and can be viewed [here](https://ng-course-recipe-book-b2e63.web.app/shopping-list).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Project Overview
 
-## Code scaffolding
+The purpose of this project was to create a simple recipe & shopping list management web application using Angular 12.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Technologies Leveraged
 
-## Build
+The following technologies were used in order to complete the project:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Front End
 
-## Running unit tests
+1. HTML
+2. CSS
+3. JavaScript/TypeScript
+4. Angular 12 Front End Framework
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Back End (Firebase BaaS)
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. Firebase Realtime Database (noSQL)
+2. Firebase Authentication
+3. Firebase Hosting
